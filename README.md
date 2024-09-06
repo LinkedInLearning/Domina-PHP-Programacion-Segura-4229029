@@ -47,7 +47,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gabriela-garcia).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-php-programacion-segura/implementar-practicas-de-programacion-segura-en-php?u=104
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGYkg-25a9nkQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725557998929?e=2147483647&v=beta&t=Q0df2taLS3Yqtb3yJs27_9x-2DWg1rV5MVLPvC34YKg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
